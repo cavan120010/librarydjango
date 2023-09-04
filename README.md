@@ -1,14 +1,14 @@
 # LibraryDjango
 
-## Установка
+## Installation
 
-- Установить Python
-- pip install django djangorestframework
+- Install Python
+pip install django djangorestframework
 
-## Запуск
+## Run
 
-- Запустите cmd
-- Перейдите в папку project
-- Введите команду: python main.py runserver 127.0.0.1:8000
-- Чтобы перейти на сайт перейдите по адресу 127.0.0.1:8000
-- Профит!
+- Run cmd
+- Go to the project folder
+- Enter the command: python main.py runserver 127.0.0.1:8000
+- To go to the site go to 127.0.0.1:8000
+- Profit!
